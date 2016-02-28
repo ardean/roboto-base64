@@ -1,5 +1,6 @@
 module.exports = {
-  "Roboto-Regular.ttf": require("roboto-fontface/fonts/Roboto-Regular.ttf"),
-  "Roboto-Medium.ttf": require("roboto-fontface/fonts/Roboto-Medium.ttf"),
-  "Roboto-Italic.ttf": require("roboto-fontface/fonts/Roboto-RegularItalic.ttf")
+  normal: require("roboto-fontface/fonts/Roboto-Regular.ttf"),
+  italics: require("roboto-fontface/fonts/Roboto-RegularItalic.ttf"),
+  bold: require("roboto-fontface/fonts/Roboto-Bold.ttf"),
+  bolditalics: require("roboto-fontface/fonts/Roboto-BoldItalic.ttf")
 };
